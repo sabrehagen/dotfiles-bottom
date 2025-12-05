@@ -1,0 +1,15 @@
+[[row]]
+  [[row.child]]
+    type="cpu"
+  [[row.child]]
+    type="cpu"
+[[row]]
+  [[row.child]]
+    type="memory"
+  [[row.child]]
+    type="network"
+[[row]]
+  [[row.child]]
+    type="network"
+  [[row.child]]
+    type="memory"
